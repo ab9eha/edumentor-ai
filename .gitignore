@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+student_progress.db
+
+reports/*.pdf
+
+test_app.py
+
+.streamlit/secrets.toml
