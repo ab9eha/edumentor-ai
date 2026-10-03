@@ -1,6 +1,12 @@
+<div align="center">
+
 # 🎓 EduMentor AI
 
 ### AI-Powered Personalized Learning & Student Performance Platform
+
+[🚀 Live Demo](https://edumentor-ai1.streamlit.app/)
+
+</div>
 
 EduMentor AI is an educational platform designed to provide students with a more personalized learning experience.
 
@@ -8,6 +14,11 @@ The system allows students to choose a subject and learning level, complete inte
 
 The project combines **Python, AI-based performance analysis, data visualization, SQLite, and Streamlit** into one educational application.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite)
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-purple)
+![License](https://img.shields.io/badge/License-Educational-green)
 ---
 
 ## 🚀 Live Demo
