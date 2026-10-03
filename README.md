@@ -15,6 +15,25 @@ The project combines **Python, AI-based performance analysis, data visualization
 **Streamlit App:**
 [🚀 Launch EduMentor AI](https://edumentor-ai1.streamlit.app/)
 
+## 🖥️ Application Preview
+
+### 🎓 Dashboard
+
+![EduMentor AI Dashboard](screenshots/dashbaord.png)
+
+### 📝 Interactive Quiz
+
+![EduMentor AI Quiz](screenshots/quiz.png)
+
+### 📈 Progress Analytics
+
+![EduMentor AI Analytics](screenshots/progressanalysis.png)
+
+### 📄 Personalized Report
+
+![EduMentor AI Report](screenshots/report.png)
+
+
 ---
 
 ## 📌 Project Overview
